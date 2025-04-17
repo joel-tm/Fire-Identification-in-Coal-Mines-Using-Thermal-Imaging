@@ -44,6 +44,11 @@ successfully running this image will create a grid with images produced
 output from running this shown below!
 ![ic3grid_combined_grid](https://github.com/user-attachments/assets/6a8e474d-7181-4b95-a3ac-b09bd13ffdf8)
 the image on left has solder iron,in middle iron box and on right a phone
+
+```python3
+banner_threshold = 70.0` #change it to the value above which you want to get marked as caution
+```
+
 - the images that are set the above threshold value are marked with caution along with their temperature in red
 -  below threshold are given in green
 
