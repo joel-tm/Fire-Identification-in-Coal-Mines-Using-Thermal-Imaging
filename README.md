@@ -30,6 +30,7 @@ This can be made to take a snapshot at every time interaval you decide
 - run directly from the cmd in pi always mention the device no of the camera while running eg: python3 snapshot4.py --device 0
 
 ## STEP 2
+### run ic3.py
 Make sure to change the session_{no} in the file.
 run the file named ic3.py. 
 eg in code:
