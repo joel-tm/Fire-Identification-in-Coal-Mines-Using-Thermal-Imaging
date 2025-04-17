@@ -1,5 +1,5 @@
 # Fire-ldentification-in-Coal-Mines-Using-Thermal-Imaging
-uses topdon tc001 thermal camera to process the data
+uses topdon tc001 thermal camera
 
 
 The code can be run in ubuntu directly with camera connected to the laptops usb port or connect the camera to the raspberry pi and use rnc viewer to execute this code inside it
