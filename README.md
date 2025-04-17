@@ -41,8 +41,9 @@ log_file = './snapshots/session_31/snapshot_log.txt'
 
 successfully running this image will create a grid with images produced
 output from running this shown below!
-[Uploading ic3grid_combined_grid.jpg…]()
+![ic3grid_combined_grid](https://github.com/user-attachments/assets/6a8e474d-7181-4b95-a3ac-b09bd13ffdf8)
 
-![ic3grid_combined_grid](https://github.com/user-attachments/assets/c15c88a7-a3c6-464f-a56f-39a98c6f3427
-- the images that are set the above threshold value are marked with caution along with their number,temperature in red, below threshold are given in green
+
+- the images that are set the above threshold value are marked with caution along with their temperature in red
+-  below threshold are given in green
 
