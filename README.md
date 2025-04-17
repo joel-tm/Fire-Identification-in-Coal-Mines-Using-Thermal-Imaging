@@ -1,4 +1,4 @@
-![ic3grid_combined_grid](https://github.com/user-attachments/assets/c15c88a7-a3c6-464f-a56f-39a98c6f3427)# Fire-ldentification-in-Coal-Mines-Using-Thermal-Imaging
+# Fire-ldentification-in-Coal-Mines-Using-Thermal-Imaging
 uses topdon tc001 thermal camera to process the data
 
 
@@ -18,10 +18,11 @@ The code can be run in ubuntu directly with camera connected to the laptops usb 
 `python3 snapshot4.py` directly from terminal. or python3 snapshot4.py --device {find the number its getting detected as and put it here}
 
 #### running snapshot4.py
-should give you a live feed from the camera with the maximum temperature displayed on it. currently it is set to manually take a snapshot when you press 'p' in keyboard.
+- should give you a live feed from the camera with the maximum temperature displayed on it.
+- currently it is set to manually take a snapshot when you press 'p' in keyboard.
 This can be made to take a snapshot at every time interaval you decide
 
-- when the snapshots are taken it is always started in a new folder named session{no}. Inside the session{no} the snapshots are saved along with log file containing the image number and temperature associaated with it
+- when the snapshots are taken it is always started in a new folder named session{no}. Inside the session{no} the snapshots are saved along with log file containing the image number and temperature associated with it
 
 ### IF RUNNING IN RASPBERRY PI OS(via hdmi or remotely using rnc viewer)
 
@@ -42,6 +43,6 @@ successfully running this image will create a grid with images produced
 output from running this shown below!
 [Uploading ic3grid_combined_grid.jpg…]()
 
-
+![ic3grid_combined_grid](https://github.com/user-attachments/assets/c15c88a7-a3c6-464f-a56f-39a98c6f3427
 - the images that are set the above threshold value are marked with caution along with their number,temperature in red, below threshold are given in green
 
