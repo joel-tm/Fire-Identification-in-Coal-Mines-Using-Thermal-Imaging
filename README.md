@@ -52,3 +52,6 @@ banner_threshold = 70.0` #change it to the value above which you want to get mar
 - the images that are set the above threshold value are marked with caution along with their temperature in red
 -  below threshold are given in green
 
+## system design 
+![1766140398187](https://github.com/user-attachments/assets/ec8bc365-c84d-4b05-aa9b-dcf33135de95)
+
