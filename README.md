@@ -53,5 +53,6 @@ banner_threshold = 70.0` #change it to the value above which you want to get mar
 -  below threshold are given in green
 
 ## system design 
-![1766140398187](https://github.com/user-attachments/assets/ec8bc365-c84d-4b05-aa9b-dcf33135de95)
+![1766140398185](https://github.com/user-attachments/assets/2ac22c1b-dcc2-45b5-ae7a-f997d3b1d5f2)
+
 
